@@ -10,7 +10,7 @@ const Service = ({ service, addToCart }) => {
             <img src={picture} alt="" />
             <div className='service-info'>
                 <h3 className='service-name'>Name: {name}</h3>
-                <p>Price: {price}</p>
+                <p>Price: ${price}</p>
                 <h4>Contact: {phone}</h4>
             </div>
             <button onClick={() => addToCart(service)} className='Add-btn'>

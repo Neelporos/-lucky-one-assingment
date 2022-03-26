@@ -12,3 +12,6 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
+.services-cart{
+    background-color: #FAEBD7;
+}

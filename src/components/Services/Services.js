@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
 import Service from '../Service/Service';
 import './Services.css'
 
@@ -14,7 +15,16 @@ const Services = () => {
     }, [])
 
     const addToCart = (service) => {
-        console.log(service);
+        if (cart.length >= 4) {
+            console.log("max limit crossed")
+            return;
+        }
+        for (const service2 of cart) {
+            if (service.id === service2.id) {
+                console.log("already added")
+                return;
+            }
+        }
         const newCart = [...cart, service];
         setCart(newCart);
     }
@@ -33,8 +43,7 @@ const Services = () => {
                 </div>
 
                 <div className="services-cart">
-                    <h3>Get Your Service</h3>
-                    <p>{cart.length}</p>
+                    <Cart cart={cart}></Cart>
                 </div>
             </div>
         </div>
