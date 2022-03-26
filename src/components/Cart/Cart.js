@@ -9,9 +9,6 @@ const Cart = ({ cart }) => {
         serviceName = serviceName + "\n"
     }
 
-
-
-
     return (
         <div className='cart'>
             <h3>Get Your Service</h3>
