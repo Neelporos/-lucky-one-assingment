@@ -1,8 +1,14 @@
+.header{
+    text-align: center;
+    justify-content: center;
+}
 .services-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    padding: 10px;
 }
 .services{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
 }

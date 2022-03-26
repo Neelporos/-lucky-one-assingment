@@ -1,8 +1,30 @@
 .service{
     width: 300px;
     height: 500px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    position: relative;
+}
+.service-name{
+    margin: 0;
+}
+.service-info{
+    margin: 0 10px;
 }
 .service img{
     width: 285px;
     height: 285px;
+    border-radius: 8px;
+    margin: 7px;
+}
+
+.Add-btn{
+    width: 100%;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+    border: none;
+}
+.Add-btn:hover{
+    background-color: bisque;
 }

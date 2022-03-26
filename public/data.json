@@ -3,60 +3,70 @@
         "id": "623e16a9064d74d49050b21e",
         "picture": "https://moversandpackersinqatar.com/wp-content/uploads/2021/01/quiet-expert-img.jpg",
         "name": "All In One Handyman",
-        "price": 772
+        "price": 772,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a9c06d7e8b49b02a1b",
         "picture": "https://thumbs.dreamstime.com/b/plumber-work-bathroom-plumbing-repair-service-assemble-install-concept-plumber-work-bathroom-plumbing-repair-113995223.jpg",
         "name": "Plumbing Service",
-        "price": 903
+        "price": 903,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a96dbab5817a03dd5a",
         "picture": "https://thecleaningcompany.gr/wp-content/uploads/2021/08/Special1.jpg",
         "name": "Electrician Service",
-        "price": 693
+        "price": 693,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a992456a288bb79a9e",
         "picture": "https://www.contractorconnection.com/wp-content/uploads/2016/06/why-hire-a-general-contractor-for-your-room-addition-644x431.jpg",
         "name": "General Contractor",
-        "price": 628
+        "price": 628,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a94b4a1fb70ee7058f",
         "picture": "https://www.clean-organized-family-home.com/images/house-cleaning-service-19.jpg",
         "name": "House Cleaning service",
-        "price": 288
+        "price": 288,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a90280e9e725011dc4",
         "picture": "https://www.nipponpaint.co.in/wp-content/uploads/2020/10/wall-painting-service-1024x683.jpg",
         "name": "Painting Service",
-        "price": 449
+        "price": 449,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a9979fce2b1cfac407",
         "picture": "https://www.acia-rci.org/wp-content/uploads/2019/12/callout.jpg",
         "name": "Roofing Service",
-        "price": 463
+        "price": 463,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a9463299dce43f88f7",
         "picture": "https://modernize.com/wp-content/uploads/2017/09/iStock-945456460.jpg",
         "name": "Window Repair & Installation",
-        "price": 276
+        "price": 276,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a9c33d487ef805d5e1",
         "picture": "https://1njxeq10aakd2oaak529zbcn-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/a.24.hour_.door_.20190801_111959-Copy-scaled.jpg",
         "name": "Door Repair & Installation",
-        "price": 583
+        "price": 583,
+        "phone": "+1 866-436-2012"
     },
     {
         "id": "623e16a9c559da2c5e113470",
         "picture": "https://www.qf4l.com/wp-content/uploads/2017/12/Why-Hire-Professional-Flooring-Contractors.jpg",
         "name": "Flooring Contractor",
-        "price": 325
+        "price": 325,
+        "phone": "+1 866-436-2012"
     }
 ]
